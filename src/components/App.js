@@ -3,8 +3,6 @@ import React from 'react';
 import Form from './Form';
 import CardList from './CardList';
 
-// GitHub usernames: gaearon, sophiebits, sebmarkbage, bvaughn
-
 class App extends React.Component {
   state = {
     profiles: [],
